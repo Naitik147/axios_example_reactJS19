@@ -15,5 +15,5 @@ export const Card = ({ movieData }) => {
                 </div>
             </div>
         </li>
-    )
+ )
 }
